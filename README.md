@@ -1,8 +1,6 @@
-# Java-ThreadPool-TCP
+# Java-TCP
 
 # TCP Server
-
-## 使用自定义线程池处理消息
 
 ## 使用工厂模式处理多种不同的类型的消息包
 
